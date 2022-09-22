@@ -1,0 +1,29 @@
+.mainLandingPage {
+  display: flex;
+  flex-direction: row;
+  height: 80vh;
+}
+.left {
+  width: 70%;
+  margin: auto;
+}
+.logoImage {
+  width: 80%;
+  padding-left: 150px;
+}
+.right {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+#para {
+  color: green;
+  font-size: 35px;
+}
+.btnEnter {
+  border: 2px solid green;
+  padding: 10px 25px;
+  border-radius: 12px;
+  color: green;
+  background-color: white;
+}

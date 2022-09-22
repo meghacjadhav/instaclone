@@ -1,0 +1,23 @@
+.mainHeader {
+  border-bottom: 1px solid green;
+  box-shadow: 5px 0px 3px grey;
+  display: flex;
+}
+.logo {
+  color: #008000;
+  font-size: 40px;
+  margin-left: 200px;
+  padding: 10px;
+  width: 80%;
+}
+#logoText {
+  vertical-align: top;
+}
+#logoIcon {
+  vertical-align: middle;
+}
+.camera {
+  width: 10%;
+  font-size: 30px;
+  margin: auto;
+}

@@ -1,0 +1,59 @@
+.postViewContainer {
+  border: 1px solid rgb(194, 194, 194);
+  margin: 20px auto;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+#name {
+  font-weight: bold;
+  font-size: 18px;
+  position: absolute;
+  margin: 0px 15px;
+}
+#location {
+  position: relative;
+  top: 15px;
+  color: gray;
+  margin: 0px 15px;
+}
+#dots {
+  float: right;
+  margin: 3px 15px;
+  font-size: 20px;
+}
+#secCont {
+  width: 800px;
+  height: fit-content;
+  border-width: 1px 0px;
+  border-style: solid;
+  border-color: rgb(194, 194, 194);
+}
+#heart {
+  float: left;
+  margin: 0px 10px;
+  color: grey;
+}
+#rocket {
+  margin: 0px 10px;
+  color: grey;
+}
+#date {
+  float: right;
+  color: grey;
+  margin: 0px 20px;
+}
+#likes {
+  position: relative;
+  top: -25px;
+  left: 10px;
+  font-size: 13px;
+  color: grey;
+}
+#desc {
+  font-weight: bold;
+  font-size: 18px;
+  position: relative;
+  top: -35px;
+  left: 10px;
+}

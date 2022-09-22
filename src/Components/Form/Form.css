@@ -1,0 +1,28 @@
+#main_form {
+  height: 800px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  margin: auto auto;
+}
+#main_form form {
+  border: 1px solid black;
+  padding: 30px;
+}
+
+#main_form input {
+  height: 15px;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin: 10px;
+}
+
+#postbtn {
+  margin: 10px;
+  margin-left: 150px;
+  color: grey;
+  padding: 5px 20px;
+  font-weight: bold;
+}
